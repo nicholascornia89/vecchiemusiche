@@ -1,0 +1,71 @@
+site_name: 'Le Vecchie Musiche e la nuova maniera di leggerle'
+docs_dir: '../../docs/en'
+site_dir: '../../generated/en'
+nav:
+  - Home: index.md
+  - Ensemble: ensemble.md
+  - Projects: projects.md
+  - Archive: archive.md
+  - Members: members.md
+  - Support us: support_us.md
+  - Contact us: contact_us.md
+
+plugins:
+  - search
+  - tags
+  - autorefs
+  - roamlinks
+ # - bibtext:
+ #     bib_file: "dftp.bib"
+
+theme:
+  name: material
+  custom_dir: '../../overrides/'
+  logo: assets/images/VM-icon.svg
+  favicon: assets/images/favicon.ico
+  language: en
+  icon:
+#    previous: fontawesome/solid/angle-left
+#    next: fontawesome/solid/angle-right
+
+  font:
+    text: Sorts Mill Goudy
+  palette:
+    scheme: default
+    primary: custom
+  features:
+    - navigation.instant
+    - search.share
+    - navigation.footer
+
+copyright: Copyright &copy; 2024 Le Vecchie Musiche
+
+extra:
+  generator: false
+  alternate:
+    #Switch to English
+    - name: English
+      link: /en/
+      lang: en
+    # Switch to Dutch
+    - name: Nederlands
+      link: /nl/
+      lang: en
+    # Switch to Italian
+    - name: Italiano
+      link: /nl/
+      lang: en
+
+    
+
+
+markdown_extensions:
+  - footnotes
+  - tables
+
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+
+

@@ -16,7 +16,7 @@
     
     
       
-        <title>Ensemble - Le Vecchie Musiche e la nuova maniera di leggerle</title>
+        <title>Sprezzanti Rime - Le Vecchie Musiche e la nuova maniera di leggerle</title>
       
     
     
@@ -42,7 +42,7 @@
       
     
     
-      <link rel="stylesheet" href="../../overrides/stylesheets/extra.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/extra.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -59,7 +59,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#ensemble" class="md-skip">
+        <a href="#sprezzanti-rime" class="md-skip">
           Skip to content
         </a>
       
@@ -78,21 +78,61 @@
     </div>
     
     
-      
+      <!--
+  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Determine classes -->
+
 
   
 
+
+<!-- Header -->
 <header class="md-header md-header--shadow" data-md-component="header">
-  <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Le Vecchie Musiche e la nuova maniera di leggerle" class="md-header__button md-logo" aria-label="Le Vecchie Musiche e la nuova maniera di leggerle" data-md-component="logo">
+  <nav
+    class="md-header__inner md-grid"
+    aria-label="Header"
+  >
+
+    <!-- Link to home -->
+    <a
+      href="../.."
+      title="Le Vecchie Musiche e la nuova maniera di leggerle"
+      class="md-header__button md-logo"
+      aria-label="Le Vecchie Musiche e la nuova maniera di leggerle"
+      data-md-component="logo"
+    >
       
   <img src="../../assets/images/VM-icon-red.png" alt="logo">
 
     </a>
+
+    <!-- Button to open drawer -->
     <label class="md-header__button md-icon" for="__drawer">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
     </label>
+
+    <!-- Header title -->
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
@@ -100,19 +140,27 @@
             Le Vecchie Musiche e la nuova maniera di leggerle
           </span>
         </div>
+        <!--
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Ensemble
+              Sprezzanti Rime
             
           </span>
+        -->
         </div>
       </div>
     </div>
+
+    <!-- Color palette toggle -->
     
       
     
+
+    <!-- User preference: color palette -->
     
+
+    <!-- Site language selector -->
     
       <div class="md-header__option">
   <div class="md-select">
@@ -146,11 +194,15 @@
   </div>
 </div>
     
+
+    <!-- Button to open search modal -->
     
       <label class="md-header__button md-icon" for="__search">
         
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
       </label>
+
+      <!-- Search interface -->
       <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
@@ -189,8 +241,12 @@
   </div>
 </div>
     
+
+    <!-- Repository information -->
     
   </nav>
+
+  <!-- Navigation tabs (sticky) -->
   
 </header>
     
@@ -232,7 +288,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../index.md" class="md-nav__link">
+      <a href="../../en/index.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -252,7 +308,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../ensemble.md" class="md-nav__link">
+      <a href="../../en/ensemble.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -272,7 +328,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projects.md" class="md-nav__link">
+      <a href="../../en/projects.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -292,7 +348,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../archive.md" class="md-nav__link">
+      <a href="../../en/archive.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -312,7 +368,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../members.md" class="md-nav__link">
+      <a href="../../en/members.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -332,7 +388,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../support_us.md" class="md-nav__link">
+      <a href="../../en/support_us.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -352,7 +408,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../contact_us.md" class="md-nav__link">
+      <a href="../../en/contact_us.md" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -392,9 +448,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#le-vecchie-musiche-a-new-way-of-reading-our-cultural-heritage" class="md-nav__link">
+  <a href="#introduction" class="md-nav__link">
     <span class="md-ellipsis">
-      Le Vecchie Musiche: a new way of reading our cultural heritage
+      Introduction
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#performers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Performers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#media" class="md-nav__link">
+    <span class="md-ellipsis">
+      Media
     </span>
   </a>
   
@@ -415,44 +489,29 @@
                   
 
 
-<h1 id="ensemble">Ensemble</h1>
-<h2 id="le-vecchie-musiche-a-new-way-of-reading-our-cultural-heritage">Le Vecchie Musiche: a new way of reading our cultural heritage</h2>
-<div class="grid">
-<p><img align="left" alt="Nicholas" height="height" src="../support_us.jpg" width="300" /> Should we consider history as a hard rock mountain, where the names of our famous ancestors are engraved on solid marble? Or is history a river, where the names are written on fragile parchment, floating around in small bowls? Noble swans swim round, select names and take them to a temple built on a small island. In analogy to the swans, we also save the names we consider important from oblivion and in so doing construct our cultural history and identity.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
-</div>
-<div class="grid cards">
+<h1 id="sprezzanti-rime">Sprezzanti Rime</h1>
+<p><img align="align" alt="Sprezzanti Rime" src="../../assets/images/sprezzanti_rime.jpg" /> </p>
+<h2 id="introduction">Introduction</h2>
+<p>The Sprezzanti Rime project represents a crossroads in the artistic research of Vecchie Musiche, which just celebrated its first five-year anniversary last August 2023.</p>
+<p>Some of the themes, music and characters that had characterized projects such as <a href="amorosa_filosofia.md">L’Amorosa Filosofia</a>, <a href="donne_antique.md">Le Donne Antique</a> and the <a href="madrigali_ariosi.md">Madrigali Ariosi</a> gradually resurfaced in a homogeneous way during the long research process, which lasted almost two years, that led to the realization of Sprezzanti Rime.</p>
+<p>The theme of femininity, so dear to our ensemble, once again plays a princely role: the vicissitudes of female poets of sixteenth-century Italy are recounted through their sonnets, octaves and third rhymes, set to music by contemporary artists.</p>
+<p>Great women of the sixteenth century, such as Vittoria Colonna (1492-1547), Gaspara Stampa (1523-1554), Laura Terracina (1519-c. 1577) and Tarquinia Molza, the absolute protagonist of our project L’Amorosa Filosofia, will accompany us, with their art and sensibility, in an imaginary querelle des sexes: a battle of rhetoric between women and men in the sixteenth century.</p>
+<p>The peculiar perspective of these women poets presents us with a more complete view of their world, too often dominated by a male-dominated society that put arms, honor and virility first, virtues emblematically projected in the figure of the mercenary captain and virtuous singer Giulio Cesare Brancaccio (1515-1586).</p>
+<p>A worldview in which men and women live in harmony and mutual respect is advocated by scholars such as Francesco Patrizi, Alessandro Piccolomini, Lucrezia Marinella, and Ludovico Ariosto.
+In their texts, which can be considered proto-feminist, the Macist view, which considers women inferior to men, is abandoned in favor of a model in which the two sexes complement each other, achieving eutrapelia, that is, the balance of opposites described in the utopian worlds of Thomas Campanella’s The City of the Sun and Margaret Cavendish’s The Blazing World.</p>
+<p>We have chosen not to make public the names of the composers who set these “sprezzanti” verses to music. The reason for this choice is twofold: the first is to enhance the poet’s contribution to the madrigal genre, confirming that it is nothing more than an aural representation of the collective declamation of a text.
+The second reason, much more insidious for the listener, is that one of the madrigals is a forgery composed especially for this concert. Will you be able to recognize it and appreciate its artistic value regardless of its “authenticity”?</p>
+<h2 id="performers">Performers</h2>
 <ul>
-<li>
-<p><strong>MISSION</strong></p>
-<hr />
-<p>To give a new voice to those forgotten by history, is the mission of the ensemble <em>Le Vecchie Musiche, e la nuova maniera di leggerle</em>. It proposes a <em>new way of reading</em> our cultural heritage, too often dominated by a rigid aesthetic canon.</p>
-</li>
-<li>
-<p><strong>NAME</strong></p>
-<hr />
-<p>The name of the ensemble is a parody (a paraphrase in musical terms) of the famous collection of Giulio Caccini: <em>Le Nuove Musiche</em>, published in 1602. The monodies of Caccini contributed to the establishment of solo singing with instrumental accompaniment, thanks to the rapid spreading of music print editions. In an analogous way the development of digital technologies of the last decades has given us the possibility to share, research and find original sources worldwide.</p>
-</li>
-<li>
-<p><strong>PROJECTS</strong></p>
-<hr />
-<p>The projects within Le Vecchie Musiche are the result of the study of the life and works of musicians, supported by recent musicological research.</p>
-<p>These discoveries are presented to the listener through the life and music of artists from the past, opening up possibilities for interpretation and connection with our contemporary society.</p>
-</li>
-<li>
-<p><strong>HISTORY &amp; FUTURE</strong></p>
-<hr />
-<p>The first experiment of the ensemble took place during October 2018, with the performance of the oratorium Santa Editta by composer Alessandro Stradella (1639-1682). The project, conceived by the artistic director Nicholas Cornia, resulted in the cooperation of a collective of students at the Ghent Conservatory. Since then every other project has been unique and collectively built. Through the intermingling of story and music of forgotten artists, the public takes a peek into the social and cultural context of past times and lives. Le Vecchie musiche aims to valorise artists excluded by our aesthetic canon. Through original concert programs, workshops, music transcriptions and research articles it offers new insights to our conception of the past.</p>
-</li>
+<li>Nicholas Cornia (artistic director, bass) </li>
+<li>Maria Eichler (alto)</li>
+<li>Andrea Gavagnin (contratenor) </li>
+<li>Thomas Langlois (lute)</li>
+<li>Leander Van Gijsegem (tenor)</li>
+<li>Lidwien Van Winckel (soprano) </li>
 </ul>
-</div>
-<div class="footnote">
-<hr />
-<ol>
-<li id="fn:1">
-<p>Reference to the voyage of Astolfo to the moon in Ariosto’s <em>Orlando Furioso</em>, Canto XXXV.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
-</li>
-</ol>
-</div>
+<h2 id="media">Media</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=XK-KjdfZl_XSyz43&amp;list=PLDTXvtcLnrvHkBG1_rfiRXCz4qe0ul4XZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -475,22 +534,24 @@
         
       </main>
       
-        <footer class="md-footer">
-  
-    
+        
+<footer class="md-footer">
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
-      <div class="md-copyright">
-  
-    <div class="md-copyright__highlight">
-      Copyright &copy; 2024 Le Vecchie Musiche
-    </div>
-  
-  
-</div>
-      
-        <div class="md-social">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2025 Le Vecchie Musiche
+          </div>
+        
+      </div>
+        <div class="md-grid">
+        <img src="../assets/images/VM_logo_footer_white.png" alt="VM_footer_logo" width="400" height="200">  
+        <p> Le Vecchie musiche aims to valorise artists excluded from our aesthetic canon.<br>
+      Through original concert programs, workshops, music transcriptions <br> and research articles it offers new insights to our conception of the past. </p>
+      </div>
+      <div class="md-social">
   
     
     
@@ -515,7 +576,6 @@
     </a>
   
 </div>
-      
     </div>
   </div>
 </footer>

@@ -1,0 +1,24 @@
+:root {
+  /* primary color */
+  --md-primary-fg-color:        #e4002c;
+  --md-primary-bg-color:        #f8f7f4;
+  /*footer not working */
+  --md-footer-fg-color:         #e4002c;
+  --md-footer-bg-color:         #f8f7f4;
+  /* hover case */
+  --md-accent-fg-color:         #e4002c;
+  --md-accent-bg-color:         #f8f7f4;
+  --md-typeset-fg-color:        #e4002c;
+  --md-typeset-color:           #e4002c;
+  /* default? */
+  --md-default-fg-color:        #e4002c;
+}
+
+.languages{
+  margin-left: auto;
+  margin-right: 0px;
+  padding: 5px;
+}
+
+
+

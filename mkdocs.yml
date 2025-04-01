@@ -1,0 +1,83 @@
+site_name: 'Le Vecchie Musiche e la nuova maniera di leggerle'
+#docs_dir: 'docs'
+#site_dir: '../../generated/en'
+nav:
+  - Home: en/index.md
+  - Ensemble: en/ensemble.md
+  - Projects: en/projects.md
+  - Archive: en/archive.md
+  - Members: en/members.md
+  - Support us: en/support_us.md
+  - Contact us: en/contact_us.md
+
+plugins:
+  - search
+  - tags
+  - autorefs
+ # - roamlinks
+ # - bibtext:
+ #     bib_file: "dftp.bib"
+
+extra_css:
+  #custom_dir: 'overrides'
+  - assets/stylesheets/extra.css
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/images/VM-icon-red.png
+  favicon: assets/images/favicon.ico
+  language: en
+  icon:
+#    previous: fontawesome/solid/angle-left
+#    next: fontawesome/solid/angle-right
+
+  font:
+    text: Sorts Mill Goudy
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+    footer: custom
+
+  features:
+    - navigation.instant
+    - search.share
+    - navigation.footer
+
+copyright: Copyright &copy; 2025 Le Vecchie Musiche
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@nicholascornia7593/playlists
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=100063282096014
+  generator: false
+  alternate:
+    #Switch to English
+    - name: English
+      link: /en/
+      lang: en
+    # Switch to Dutch
+    - name: Nederlands
+      link: /nl/
+      lang: nl
+    # Switch to Italian
+    - name: Italiano
+      link: /it/
+      lang: it
+
+    
+
+
+markdown_extensions:
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+
+
+
+
+

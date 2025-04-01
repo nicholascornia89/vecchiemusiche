@@ -12,11 +12,27 @@ nav:
 
 plugins:
   - search
+  #- toggle-sidebar
   - tags
-  - autorefs
- # - roamlinks
- # - bibtext:
- #     bib_file: "dftp.bib"
+  #- autorefs
+  - mkdocs-video
+  - data
+  #- live-edit
+  #- meta-manager
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: nl
+          name: Nederlands
+          build: true
+        - locale: it
+          name: Italiano
+          build: true
+
 
 extra_css:
   #custom_dir: 'overrides'

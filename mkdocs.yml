@@ -32,6 +32,10 @@ plugins:
         - locale: it
           name: Italiano
           build: true
+  - redirects:
+      redirect_maps:
+        'https://www.vecchiemusiche.be/nl/projecten/missa-romantica-nl/': 'nl/projects/missa_romantica.md'
+
 
 
 extra_css:

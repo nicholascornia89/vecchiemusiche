@@ -1,3 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/"/>
+    </url>
+    <url>
+        <loc>Nonearchive/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonearchive/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/archive/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/archive/"/>
+    </url>
+    <url>
+        <loc>Nonecontact_us/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontact_us/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/contact_us/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/contact_us/"/>
+    </url>
+    <url>
+        <loc>Noneensemble/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneensemble/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/ensemble/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/ensemble/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/"/>
+    </url>
+    <url>
+        <loc>Nonesupport_us/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesupport_us/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/support_us/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/support_us/"/>
+    </url>
+    <url>
+        <loc>Nonearchive/piece_template/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonearchive/piece_template/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/archive/piece_template/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/archive/piece_template/"/>
+    </url>
+    <url>
+        <loc>Nonemembers/lidwien_van_winckel/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/lidwien_van_winckel/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/lidwien_van_winckel/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/lidwien_van_winckel/"/>
+    </url>
+    <url>
+        <loc>Nonemembers/nicholas_cornia/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/nicholas_cornia/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/nicholas_cornia/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/nicholas_cornia/"/>
+    </url>
+    <url>
+        <loc>Noneprojects/sprezzanti_rime/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/sprezzanti_rime/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/sprezzanti_rime/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/sprezzanti_rime/"/>
+    </url>
+    <url>
+        <loc>Nonenl/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/"/>
+    </url>
+    <url>
+        <loc>Nonenl/archive/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonearchive/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/archive/"/>
+    </url>
+    <url>
+        <loc>Nonenl/contact_us/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/contact_us/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontact_us/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/contact_us/"/>
+    </url>
+    <url>
+        <loc>Nonenl/ensemble/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/ensemble/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneensemble/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/ensemble/"/>
+    </url>
+    <url>
+        <loc>Nonenl/projects/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/"/>
+    </url>
+    <url>
+        <loc>Nonenl/support_us/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/support_us/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesupport_us/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/support_us/"/>
+    </url>
+    <url>
+        <loc>Nonenl/archive/piece_template/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/archive/piece_template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonearchive/piece_template/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/archive/piece_template/"/>
+    </url>
+    <url>
+        <loc>Nonenl/members/lidwien_van_winckel/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/lidwien_van_winckel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/lidwien_van_winckel/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/lidwien_van_winckel/"/>
+    </url>
+    <url>
+        <loc>Nonenl/members/nicholas_cornia/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/nicholas_cornia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/nicholas_cornia/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/nicholas_cornia/"/>
+    </url>
+    <url>
+        <loc>Nonenl/projects/sprezzanti_rime/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/sprezzanti_rime/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/sprezzanti_rime/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/sprezzanti_rime/"/>
+    </url>
+    <url>
+        <loc>Noneit/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/"/>
+    </url>
+    <url>
+        <loc>Noneit/archive/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/archive/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonearchive/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/archive/"/>
+    </url>
+    <url>
+        <loc>Noneit/contact_us/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/contact_us/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontact_us/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/contact_us/"/>
+    </url>
+    <url>
+        <loc>Noneit/ensemble/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/ensemble/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneensemble/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/ensemble/"/>
+    </url>
+    <url>
+        <loc>Noneit/projects/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/"/>
+    </url>
+    <url>
+        <loc>Noneit/support_us/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/support_us/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesupport_us/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/support_us/"/>
+    </url>
+    <url>
+        <loc>Noneit/archive/piece_template/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/archive/piece_template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonearchive/piece_template/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/archive/piece_template/"/>
+    </url>
+    <url>
+        <loc>Noneit/members/lidwien_van_winckel/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/lidwien_van_winckel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/lidwien_van_winckel/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/lidwien_van_winckel/"/>
+    </url>
+    <url>
+        <loc>Noneit/members/nicholas_cornia/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/nicholas_cornia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/nicholas_cornia/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/nicholas_cornia/"/>
+    </url>
+    <url>
+        <loc>Noneit/projects/sprezzanti_rime/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/sprezzanti_rime/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/sprezzanti_rime/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/sprezzanti_rime/"/>
+    </url>
 </urlset>

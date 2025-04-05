@@ -33,6 +33,14 @@
         <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/ensemble/"/>
     </url>
     <url>
+        <loc>Nonemembers/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/"/>
+    </url>
+    <url>
         <loc>Noneprojects/</loc>
         <lastmod>2025-04-05</lastmod>
         <changefreq>daily</changefreq>
@@ -113,6 +121,14 @@
         <xhtml:link rel="alternate" hreflang="it" href="Noneit/ensemble/"/>
     </url>
     <url>
+        <loc>Nonenl/members/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/"/>
+    </url>
+    <url>
         <loc>Nonenl/projects/</loc>
         <lastmod>2025-04-05</lastmod>
         <changefreq>daily</changefreq>
@@ -191,6 +207,14 @@
         <xhtml:link rel="alternate" hreflang="it" href="Noneit/ensemble/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneensemble/"/>
         <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/ensemble/"/>
+    </url>
+    <url>
+        <loc>Noneit/members/</loc>
+        <lastmod>2025-04-05</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/members/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemembers/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/members/"/>
     </url>
     <url>
         <loc>Noneit/projects/</loc>

@@ -1,3 +1,9 @@
+---
+hide:
+  - title
+  - navigation
+---
+
 # Projects
 
 ---

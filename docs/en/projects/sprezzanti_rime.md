@@ -1,10 +1,17 @@
+---
+hide:
+  - title
+  - navigation
+---
+
 # Sprezzanti Rime
 
-![Sprezzanti Rime](../../assets/images/sprezzanti_rime.jpg){align =left} 
-## Introduction
+![Sprezzanti Rime](../../assets/images/sprezzanti_rime.jpg){align =left}
+
 The Sprezzanti Rime project represents a crossroads in the artistic research of Vecchie Musiche, which just celebrated its first five-year anniversary last August 2023.
 
 Some of the themes, music and characters that had characterized projects such as [L’Amorosa Filosofia](amorosa_filosofia.md), [Le Donne Antique](donne_antique.md) and the [Madrigali Ariosi](madrigali_ariosi.md) gradually resurfaced in a homogeneous way during the long research process, which lasted almost two years, that led to the realization of Sprezzanti Rime.
+
 
 The theme of femininity, so dear to our ensemble, once again plays a princely role: the vicissitudes of female poets of sixteenth-century Italy are recounted through their sonnets, octaves and third rhymes, set to music by contemporary artists.
 
@@ -20,12 +27,12 @@ The second reason, much more insidious for the listener, is that one of the madr
 
 ## Performers
 
-- Nicholas Cornia (artistic director, bass) 
+- [Nicholas Cornia](../members/nicholas_cornia.md) (artistic director, bass) 
 - Maria Eichler (alto)
 - Andrea Gavagnin (contratenor) 
-- Thomas Langlois (lute)
-- Leander Van Gijsegem (tenor)
-- Lidwien Van Winckel (soprano) 
+- [Thomas Langlois](../members/thomas_langlois.md) (lute)
+- [Leander Van Gijsegem](../memebers/leander_van_gijsegem.md) (tenor)
+- [Lidwien Van Winckel](../members/lidwien_van_winckel.md) (soprano) 
 
 ## Media
 

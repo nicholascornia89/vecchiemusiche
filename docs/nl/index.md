@@ -1,13 +1,9 @@
 ---
 hide:
   - title
+  - navigation
+  - toc
 ---
-
-<div class="languages">
-<a href="../en/" alt="English"><img src="../assets/images/en.png" width="30" heigth="30"></a>
-<a href="./" alt="Nederlands"><img src="../assets/images/nl.png" width="30" heigth="30"></a>
-<a href="../it/" alt="Italian"><img src="../assets/images/it.png" width="30" heigth="30"></a>
-</div>
 
 # 
 

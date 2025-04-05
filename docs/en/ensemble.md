@@ -1,3 +1,9 @@
+---
+hide:
+  - title
+  - navigation
+---
+
 # Ensemble
 
 ## Le Vecchie Musiche: a new way of reading our cultural heritage

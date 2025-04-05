@@ -1,3 +1,9 @@
+---
+hide:
+  - title
+  - navigation
+---
+
 # Vecchie Musiche Archive
 
-Welcome!
+Under construction...

@@ -1,13 +1,13 @@
 ---
 hide:
   - title
+  - navigation
+  - toc
 ---
 
 # 
 
 ![Vecchie Musiche Logo](../images/VM_logo_large.jpeg){width ="600" height="300"}
-
-<!--<img src="https://github.com/nicholascornia89/vecchiemusiche/blob/gh-pages/assets/images/VM_logo_large.jpeg?raw=true"> -->
 
 <div class="grid cards" markdown>
 

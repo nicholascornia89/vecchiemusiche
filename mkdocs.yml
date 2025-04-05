@@ -2,13 +2,13 @@ site_name: 'Le Vecchie Musiche e la nuova maniera di leggerle'
 #docs_dir: 'docs'
 #site_dir: '../../generated/en'
 nav:
-  - Home: en/index.md
-  - Ensemble: en/ensemble.md
-  - Projects: en/projects.md
-  - Archive: en/archive.md
-  - Members: en/members.md
-  - Support us: en/support_us.md
-  - Contact us: en/contact_us.md
+  - Home: index.md
+  - Ensemble: ensemble.md
+  - Projects: projects.md
+  - Archive: archive.md
+  - Members: members.md
+  - Support us: support_us.md
+  - Contact us: contact_us.md
 
 plugins:
   - search
@@ -60,6 +60,8 @@ theme:
     - navigation.instant
     - search.share
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 copyright: Copyright &copy; 2025 Le Vecchie Musiche
 

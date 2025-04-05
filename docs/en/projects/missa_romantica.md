@@ -29,7 +29,7 @@ Het volledige repertoire wordt elektronisch gedeeld voor de paasvakantie.
  
 **Inschrijvingskosten:** 30 euro, inclusief lunch op zaterdag en zondag, koffie en thee.
  
-Heb jij interesse om mee te doen? Graag dit formulier invullen tegen zaterdag 16 februari.
+Heb jij interesse om mee te doen? Graag **[dit formulier](https://forms.gle/jSmLt7qgDPCrQEDF8)** invullen tegen zaterdag 16 februari.
  
 Jij helpt ons dit project waar te maken door deze uitnodiging verder te verspreiden.
 

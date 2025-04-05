@@ -15,7 +15,7 @@ hide:
   Neem dan deel aan onze tweedaagse workshop in samenwerking met dirigent Florian Heyerick, waar we enkele koorwerken uit de renaissance zullen zingen volgens edities uit de 19de en vroege 20ste eeuw, die de geest van de zogenoemde “Sint-Cecilia beweging” weerspiegelen. [_Lees verder_](./projects/missa_romantica.md) 
 </div> 
 
-## [Oddities & Rarities (2024)](./projects/oddities_and_rarities_2024.md)
+## [Oddities & Rarities 2024](./projects/oddities_and_rarities_2024.md)
 <div class="grid" markdown>
   ![Oddities & Rarities 2024](../assets/images/oddities_and_rarities_2024.jpg){align=left width="300" height="300"} West-Europa kende in de late negentiende en vroege twintigste eeuw een trend van oriëntalistische en exotische kunst, die een groot cultureel, en in het bijzonder muzikaal, oeuvre heeft gegenereerd. Dergelijke werken baden vandaag echter in bedenkelijke wateren, waarmee imperialisme, kolonialisme en culturele toe-eigening worden geassocieerd. Hoe gaan we daar als muzikanten en als publiek mee om? [_Lees verder_](./projects/oddities_and_rarities_2024.md) 
 </div> 

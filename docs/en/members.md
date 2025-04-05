@@ -6,4 +6,10 @@ hide:
 
 # Members
 
-Under construction. You can search for musician's bios through the search bar.
+## Artistic director
+[Nicholas Cornia](./members/nicholas_cornia.md)
+
+Use the search bar to access musician's bios.
+
+
+

@@ -8,7 +8,13 @@ hide:
 
 ---
 
-## [Oddities & Rarities (2024)](./projects/oddities_and_rarities_2024.md)
+## [Missa Romantica](./projects/missa_romantica.md)
+<div class="grid" markdown>
+  ![missa romantica](../assets/images/missa_romantica.jpg){align=left width="300" height="300"} Are you curious about Richard Wagner's interpretation of Palestrina's music?
+  Then join our two-day workshop in collaboration with conductor Florian Heyerick, where we will sing some Renaissance choral works according to editions from the 19th and early 20th centuries, reflecting the spirit of the so-called ‘St Cecilia movement’. [_Read more_](./projects/missa_romantica.md) 
+</div> 
+
+## [Oddities & Rarities 2024](./projects/oddities_and_rarities_2024.md)
 <div class="grid" markdown>
   ![Oddities & Rarities 2024](../assets/images/oddities_and_rarities_2024.jpg){align=left width="300" height="300"} Western Europe experienced a trend of Orientalist and Exotic art in the late 19th and early 20th centuries, which generated a large cultural, and especially musical, body of work. However, today this repertoire is bathed in questionable waters, with which Imperialism, Colonialism and cultural appropriation are associated. The project wishes to propose a way to deal with this as musicians and as audiences. [_Read more_](./projects/oddities_and_rarities_2024.md) 
 </div> 

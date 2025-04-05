@@ -4,7 +4,16 @@ hide:
   - navigation
 tags: 
   - musician
-  - soprano  
+  - soprano
+  - Santa Editta
+  - Amorosa Filosofia
+  - Le Donne Antique
+  - Heliopolis
+  - Caffè Cantata
+  - Madrigali Ariosi
+  - La Predica del Sole
+  - Sprezzanti Rime
+  - Oddities & Rarities 2024
 ---
 
 # Lidwien Van Winckel

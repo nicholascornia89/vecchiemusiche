@@ -16,7 +16,7 @@ Neem dan deel aan onze tweedaagse workshop in samenwerking met dirigent Florian 
  
 Onder leiding van dirigent Florian Heyerick bereiden de deelnemers een openbaar toonmoment voor op zondag 18 mei om 15u. De winsten van het concert, via vrije bijdragen van het publiek, zullen geschonken worden aan de Gentse organisatie Het Majin Huis.
  
-Deze activiteit wordt georganiseerd in samenwerking met [Ex Tempore](http://www.heyerick.org/) en het ensemble [Le Vecchie Musiche](www.vecchiemusiche.be).
+Deze activiteit wordt georganiseerd in samenwerking met [Ex Tempore](http://www.heyerick.org/) en het ensemble [Le Vecchie Musiche](https://www.vecchiemusiche.be).
 
 ## Praktish
 

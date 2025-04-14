@@ -1,0 +1,146 @@
+{ 
+					"entities": [
+						{
+							"id": "E1",
+							"label": "agent",
+							"description": "",
+							"statements": []
+
+						},
+						{
+							"id": "E2",
+							"label": "manifestation",
+							"description": "",
+							"statements": []
+
+						},
+						{
+							"id": "E3",
+							"label": "concept",
+							"description": "",
+							"statements": []
+
+						},
+						{
+							"id": "E4",
+							"label": "musical_piece",
+							"description": "",
+							"statements": [
+								{"property": "P1", "value": "E2", "type": "item" },
+							]
+
+						},
+
+
+					],
+
+					"properties": [
+					{
+						"label": "instance_of",
+						"description": "",
+						"aliases": ["type"],
+						"id": "P1",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P31", "id": "P31" }
+						]
+
+					},
+					{
+						"label": "external_resource",
+						"description": "",
+						"aliases": ["external_URL","described_at_URL"],
+						"id": "P2",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P973", "id": "P973" }
+
+
+						]
+
+					},
+					{
+						"label": "title",
+						"description": "",
+						"aliases": ["appellation","name"],
+						"id": "P3",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P1476", "id": "P1476" }
+
+
+						]
+
+					},
+					{
+						"label": "composer",
+						"description": "author of the music",
+						"aliases": [],
+						"id": "P4",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P86", "id": "P86" }
+
+
+						]
+
+					},
+					{
+						"label": "poet",
+						"description": "author of the text",
+						"aliases": ["lyricist","librettist"],
+						"id": "P5",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P87", "id": "P87" },
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P676", "id": "P676" }
+
+
+						]
+
+					},
+					{
+						"label": "patron",
+						"description": "person something is dedicated to",
+						"aliases": ["dedicatee"],
+						"id": "P6",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P825", "id": "P825" }
+
+
+						]
+
+					},
+					{
+						"label": "part_of",
+						"description": "object of which the subject is a part",
+						"aliases": ["dedicatee"],
+						"id": "P7",
+						"identifiers": [
+							{"source": "Wikidata", "URI": "http://www.wikidata.org/wiki/Property:P361", "id": "P361" }
+
+
+						]
+
+					},
+					{
+						"label": "digital_asset",
+						"description": "link to digital object",
+						"aliases": [],
+						"id": "P8",
+						"identifiers": []
+
+					},
+
+
+
+					],
+					"schemas": [
+						{
+							"id": "S1",
+							"label": "musical_piece_template",
+							"statements": [
+								{"property": "P1", "value": "E4", "type": "item" },
+								{"property": "P3", "value": "", "type": "string" },
+								{"property": "P3", "value": "", "type": "string" },
+
+								]
+						}
+
+					]
+					}

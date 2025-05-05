@@ -6,9 +6,9 @@ hide:
 
 # Missa Romantica
 
-<!--![missa romantica](../../assets/images/missa_romantica_full.jpg){align =left width=30% height=30%} -->
+<!--![missa romantica](../../assets/images/missa_romantica_full.webp){align =left width=30% height=30%} -->
 
-<img src="https://raw.githubusercontent.com/nicholascornia89/vecchiemusiche/refs/heads/main/docs/assets/images/missa_romantica_full.jpg" width=30% height=30%>
+<img src="https://raw.githubusercontent.com/nicholascornia89/vecchiemusiche/refs/heads/main/docs/assets/images/missa_romantica_full.webp" width=30% height=30%>
 
 Ben jij benieuwd naar de interpretatie van Richard Wagner van Palestrina’s muziek?
  

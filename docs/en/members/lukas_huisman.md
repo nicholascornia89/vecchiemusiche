@@ -11,7 +11,7 @@ tags:
 # Lukas Huisman
 
 <div class="grid" markdown>
-![lukas_huisman](../assets/images/lukas_huisman.jpg){align=left width="300" height ="300"}
+![lukas_huisman](../assets/images/lukas_huisman.webp){align=left width="300" height ="300"}
 Lukas Huisman is pianist en uitvoerder van voornamelijk hedendaagse klassieke muziek, met een grote voorliefde voor complex (post)modern repertoire. Op het podium of in de studio, solo of in ensembles, streeft hij altijd naar een goed geïnformeerde en eerlijke uitvoering, met passie maar no-nonsense. Vanwege zijn interesse in klassieke muziek geïnspireerd door populaire muziek, heeft hij een aantal jaren jazz gestudeerd, wat resulteerde in een opname van Finnissy’s Gershwin cycli. Door zijn interesse in Japanse traditionele en hedendaagse klassieke muziek herontdekte hij het klankpotentieel van de piano. Dit resulteerde al in een opname van de complete pianowerken van Takemitsu, een premièreopname van Triadic van Hori, en een album met werken van Nishimura en Takahashi (Keitaro). Zijn doel om steeds een goed geïnformeerde artiest te zijn leidde tot een doctoraat in complexe hedendaagse pianomuziek (aan KASK & Conservatorium), en post-doctorale projecten over HIP van Brahms’ muziek (aan het Orpheus Instituut, Gent) en hedendaagse Japanse pianomuziek (aan KASK & Conservatorium).
 
 

@@ -12,7 +12,7 @@ tags:
 # Mieke Dhondt
 
 <div class="grid" markdown>
-![mieke_dhondt](../assets/images/mieke_dhondt.jpg){align=left width="300" height ="300"}
+![mieke_dhondt](../assets/images/mieke_dhondt.webp){align=left width="300" height ="300"}
 It didn’t take long for Mieke Dhondt to fall into the musical rabbit hole located in her own hometown Puivelde. At the age of eleven she started singing as a member of Gynaika, a prestigious all-girls choir, and from then on music has been a constant life companion. Mieke took voice classes with Godfried Van de Vyvere at the SAMWD Sint-Niklaas, as well as classes in piano, organ and contemporary ensemble. Currently she is attending the Royal Conservatory Ghent to study classical singing under the watchful eye of bas-bariton Marcos Pujol. In 2019-2020 Mieke and her lied partner Matthias De Smet were coached by Christianne Stotijn as part of the Udo Reinemann Masterclass series, along with masterclasses by Christine Schäfer, Malcolm Martineau, Joseph Breinl and Thomas Oliemans. Starting from 2019, Mieke has been part of the MM Academy, the young singer academy of La Monnaie/De Munt.
 
 </div> 

@@ -6,7 +6,7 @@ hide:
 
 # Discanting the Classics
 
-![discanting_the_classics](../../assets/images/discanting_the_classics.jpg){align =left}
+![discanting_the_classics](../../assets/images/discanting_the_classics.webp){align =left}
 
 Vandaag de dag hebben we het geluk omringd te zijn door een groot repertoire aan klassieke teksten. Dagelijks ontdekken leerlingen, cursisten en liefhebbers de kracht van de literatuur van de oudheid. We kijken met bewondering naar de kunst binnen deze teksten, zowel in inhoud als in samenstelling, en we vertellen op onze beurt opnieuw hun verhalen verder. Deze verwondering was niet anders bij de Italianen van de 16e eeuw. Hoewel het Latijn voor hen nooit veraf was geweest, toch trad er binnen de Renaissance een nieuwe belangstelling op voor het materiaal waarmee ze al eeuwenlang de enkel Latijnse grammatica bestudeerden. Latijn was voor hen een gebruikstaal maar tegelijk ook de moeder van hun eigen Italiaans, net zoals hun geschiedenis van Rome en omstreken vervlochten was met de vele overblijfselen van die afgebrokkelde samenleving. 
 

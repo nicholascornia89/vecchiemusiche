@@ -6,7 +6,7 @@ hide:
 
 # Sketches of Arcadia
 
-![Sprezzanti Rime](../../assets/images/sketches_of_arcadia.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sketches_of_arcadia.webp){align =left}
 
 18th century London was probably the *place to be* for artists and performers looking for a wealthy patron. Thanks to its navy and a crescent colonial and industrial influence, England was becoming a leading power in European and global politics. The rising wealth of the British middle class created a vast market for leisure, such as theater plays, novels and most of all music entertainment.
 

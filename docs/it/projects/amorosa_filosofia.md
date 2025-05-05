@@ -6,7 +6,7 @@ hide:
 
 # L'Amorosa Filosofia
 
-![amorosa_filosofia](../../assets/images/amorosa_filosofia.jpg){align =left}
+![amorosa_filosofia](../../assets/images/amorosa_filosofia.webp){align =left}
 
 ```
 Amor et io sì pien’ di meraviglia 

@@ -6,7 +6,7 @@ hide:
 
 # Caffè Cantata
 
-![caffe_cantata](../../assets/images/caffe_cantata.jpg){align =left}
+![caffe_cantata](../../assets/images/caffe_cantata.webp){align =left}
 
 Contrariamente al successo pervenuto dal Madrigale e l’Opera, nel revival musicale iniziato lo scorso secolo, la Cantata resta ancora oggi la pecora nera della musica antica. Essa combina lo stile polifonico e la monodia affiancandoli con il potere drammatico della rappresentazione teatrale. Questa fusione di generi rese la Cantata un incredibile laboratorio di sperimentazione per i compositori del Seicento e Settecento europeo. E proprio la sua natura multiforme l’ha resa difficile da comprendere per il pubblico e gli esecutori moderni.
 

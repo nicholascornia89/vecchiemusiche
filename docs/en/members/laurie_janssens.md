@@ -11,7 +11,7 @@ tags:
 # Laurie Janssens
 
 <div class="grid" markdown>
-![laurie_janssens](../assets/images/laurie_janssens.jpg){align=left width="300" height ="300"}
+![laurie_janssens](../assets/images/laurie_janssens.webp){align=left width="300" height ="300"}
 De licht-lyrische sopraan Laurie Janssens studeerde in 2009 af met
 grootste onderscheiding aan de zangafdeling van het Koninklijk
 Vlaams Conservatorium te Antwerpen bij Stephanie Friede. Daar volgde zij liedklas bij Lucienne Van Deyck en Jozef De Beenhouwer. Daarna volgde ze zangles bij Abbie Furmansky en Patricia McCaffrey.

@@ -6,7 +6,7 @@ hide:
 
 # Sprezzanti Rime
 
-![Sprezzanti Rime](../../assets/images/sprezzanti_rime.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sprezzanti_rime.webp){align =left}
 
 The Sprezzanti Rime project represents a crossroads in the artistic research of Vecchie Musiche, which just celebrated its first five-year anniversary last August 2023.
 

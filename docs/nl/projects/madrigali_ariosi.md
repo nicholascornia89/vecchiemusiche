@@ -6,7 +6,7 @@ hide:
 
 # Madrigali Ariosi
 
-![madrigali_ariosi](../../assets/images/madrigali_ariosi.jpg){align =left}
+![madrigali_ariosi](../../assets/images/madrigali_ariosi.webp){align =left}
 
 De geschiedenis van de mensheid wordt vaak verdeeld in tijdperken, wel omlijnd door evenementen en personages met precieze data, namen en plaatsen. De grote veranderingen in de menselijke geest zouden het werk zijn van genieën die plots een revolutie hebben teweeggebracht in de hen omringende cultuur, alsof ze als een deus ex machina verschenen in de laatste acte van een toneelstuk. Het moment waarop de antichi (de ouden) het stokje doorgaven aan de moderni (de modernen) heeft veel weg van een faseovergang in de thermodynamica: op het moment dat de kritieke temperatuur bereikt is, veranderen plots alle watermolecules van vloeistof in gas, alsof ze gedirigeerd worden door een onzichtbare orkestdirigent.
 

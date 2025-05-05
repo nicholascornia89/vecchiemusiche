@@ -6,7 +6,7 @@ hide:
 
 # Title
 
-![caffe_cantata](../../assets/images/caffe_cantata.jpg){align =left}
+![caffe_cantata](../../assets/images/caffe_cantata.webp){align =left}
 
 Contrary to the success gained by the madrigal and opera, since the music revival in the past century, the cantata is still nowadays considered the black sheep of Early Music. It combines the polyphonic and monodic styles enhanced by the dramatic power of the theatrical representation.
 This mixture of genres led the composers of 17th and 18th century Europe to fruitful experiments. Yet precisely this multiform nature makes the cantata difficult to grasp for the contemporary public and performers.

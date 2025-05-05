@@ -16,7 +16,7 @@ tags:
 # Ellen Wils
 
 <div class="grid" markdown>
-![ellen_wils](../assets/images/ellen_wils.jpg){align=left width="300" height ="300"}
+![ellen_wils](../assets/images/ellen_wils.webp){align=left width="300" height ="300"}
 Ellen Wils studied at the Royal Conservatory of Ghent with Mireille Capelle and Christianne Stotijn. She takes a special interest in musical theatre and interdisciplinary performance. In 2016 she sung and acted in the solo performance Ahimè created by Tom Goossens, founder of DESCHONECOMPAGNIE. Ahimè was then selected by the festival Theater Aan Zee for Young Work. She has worked with HERMESensemble and has sung solos in Nils Lindberg’s Requiem and Monteverdi’s Vespro della Beata Vergine.
 
 

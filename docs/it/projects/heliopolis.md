@@ -6,7 +6,7 @@ hide:
 
 # Heliopolis
 
-![heliopolis](../../assets/images/heliopolis.jpg){align =left}
+![heliopolis](../../assets/images/heliopolis.webp){align =left}
 
 ```
 […] der Dichter lebt vom Seyn.

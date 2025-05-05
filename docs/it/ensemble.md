@@ -8,7 +8,7 @@ hide:
 
 ## Le Vecchie Musiche: a new way of reading our cultural heritage
 <div class="grid" markdown>
-![Nicholas](../assets/images/support_us.jpg){align=left width="300" height ="300"} Dovremmo considerare la storia come un’ immanente montagna di dura roccia, e nell’ immutabile granito incisi i nomi degli illustri artisti? O è forse la storia come un fiume, nel quale i nomi dei nostri antenati viaggiano precari su fragili fogli in piccole ciotole trascinate dalla corrente? Alle volte alcuni nobili cigni selezionano pochi nomi fortunati e li depositano in un tempio, costruito su una piccola isola.  Proprio come questi cigni, costruiamo insieme la nostra identità culturale salvando dall’oblio del tempo i nomi delle personalità del passato che riteniamo significative. [^1]
+![Nicholas](../assets/images/support_us.webp){align=left width="300" height ="300"} Dovremmo considerare la storia come un’ immanente montagna di dura roccia, e nell’ immutabile granito incisi i nomi degli illustri artisti? O è forse la storia come un fiume, nel quale i nomi dei nostri antenati viaggiano precari su fragili fogli in piccole ciotole trascinate dalla corrente? Alle volte alcuni nobili cigni selezionano pochi nomi fortunati e li depositano in un tempio, costruito su una piccola isola.  Proprio come questi cigni, costruiamo insieme la nostra identità culturale salvando dall’oblio del tempo i nomi delle personalità del passato che riteniamo significative. [^1]
 </div>
 
 <div class="grid cards" markdown>

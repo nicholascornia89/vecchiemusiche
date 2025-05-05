@@ -11,7 +11,7 @@ tags:
 # Anna Nuytten
 
 <div class="grid" markdown>
-![anna_nuytten](../assets/images/anna_nuytten.jpg){align=left width="300" height ="300"}
+![anna_nuytten](../assets/images/anna_nuytten.webp){align=left width="300" height ="300"}
 [Anna Nuytten](https://www.annanuytten.com/?lang=en) is een Belgische zangeres en studeerde af in 2020 aan het
 Koninklijk Conservatorium van Gent bij Hendrikje Van Kerckhove. Ze had
 reeds de kans om samen te werken met buitengewone vocale coaches

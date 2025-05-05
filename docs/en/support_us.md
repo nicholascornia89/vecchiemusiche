@@ -13,7 +13,7 @@ hide:
 
     ---
 
-    ![Patreon](../assets/images/patreon.png){width="50" height="50"}
+    ![Patreon](../assets/images/patreon.webp){width="50" height="50"}
 
     Support us through a [Patreon](https://www.patreon.com/join/vecchiemusiche/checkout) subscription.
 
@@ -22,7 +22,7 @@ hide:
 
     ---
 
-    ![Liberapay](../assets/images/liberapay.png)
+    ![Liberapay](../assets/images/liberapay.webp)
 
     Support us via [Liberapay](https://liberapay.com/le_vecchie_musiche/donate).
 

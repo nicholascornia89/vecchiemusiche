@@ -6,7 +6,7 @@ hide:
 
 # Santa Editta
 
-![santa_editta](../../assets/images/santa_editta.jpg){align =left}
+![santa_editta](../../assets/images/santa_editta.webp){align =left}
 
 L’eccentrica figura del compositore italiano Alessandro Stradella (1639-1682), assassinata a Genova in circostanze misteriose, ha ispirato generazioni di musicisti e scrittori. Soltanto grazie alla recente ricerca musicologica di Carolyn Gianturco possiamo finalmente far luce sulla vita del compositore di Nepi, per troppo tempo oscurata da leggende spesso infondate.
 

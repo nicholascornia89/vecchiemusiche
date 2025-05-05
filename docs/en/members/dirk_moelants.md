@@ -14,7 +14,7 @@ tags:
 # Dirk Moelants
 
 <div class="grid" markdown>
-![dirk_moelants](../assets/images/dirk_moelants.jpg){align=left width="300" height ="300"}
+![dirk_moelants](../assets/images/dirk_moelants.webp){align=left width="300" height ="300"}
 Dirk Moelants (°Antwerp 1971) studied musicology at Ghent University where he obtained his PhD in 2001 studying the perception of rhythm in 20th century music. At the same time he studied viola da gamba with Wieland Kuijken at the Royal Conservatoire of The Hague where he graduated in 2002 with a Master degree in music. After working as a research and lecturer at Ghent University and the
 University of Amsterdam, he now teaching non-Western musical traditions at the School of Arts Ghent. Besides this he is active as a musician, music teacher and arranger. As a viola da gamba player he likes to explore repertoire beyond the traditional early music, performing contemporary classical music and exploring the use of the instrument in non-Western classical music.
 

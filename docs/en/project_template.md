@@ -6,7 +6,7 @@ hide:
 
 # Title
 
-![Sprezzanti Rime](../../assets/images/sprezzanti_rime.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sprezzanti_rime.webp){align =left}
 
 <!-- text -->
 

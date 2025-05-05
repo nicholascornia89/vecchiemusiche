@@ -8,7 +8,7 @@ hide:
 
 ## Le Vecchie Musiche: a new way of reading our cultural heritage
 <div class="grid" markdown>
-![Nicholas](../assets/images/support_us.jpg){align=left width="300" height ="300"} Should we consider history as a hard rock mountain, where the names of our famous ancestors are engraved on solid marble? Or is history a river, where the names are written on fragile parchment, floating around in small bowls? Noble swans swim round, select names and take them to a temple built on a small island. In analogy to the swans, we also save the names we consider important from oblivion and in so doing construct our cultural history and identity.[^1]
+![Nicholas](../assets/images/support_us.webp){align=left width="300" height ="300"} Should we consider history as a hard rock mountain, where the names of our famous ancestors are engraved on solid marble? Or is history a river, where the names are written on fragile parchment, floating around in small bowls? Noble swans swim round, select names and take them to a temple built on a small island. In analogy to the swans, we also save the names we consider important from oblivion and in so doing construct our cultural history and identity.[^1]
 </div>
 
 <div class="grid cards" markdown>

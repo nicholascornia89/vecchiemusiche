@@ -15,7 +15,7 @@ tags:
 # Jana Pieters
 
 <div class="grid" markdown>
-![jana_pieters](../assets/images/jana_pieters.jpg){align=left width="300" height ="300"}
+![jana_pieters](../assets/images/jana_pieters.webp){align=left width="300" height ="300"}
 Na haar talenstudies aan de Universiteiten van Gent en Leuven, studeerde sopraan Jana Pieters zang bij bas-bariton Marcos Pujol aan de School of Arts te Gent, waar ze in 2018 afstudeerde met Grootste
 Onderscheiding. Tijdens haar opleiding verloor ze haar hart vooral aan de vertelkracht van de oude muziek. Ze had het geluk om reeds samen te mogen werken met gerenommeerde vocale coaches, dirigenten en artiesten uit deze wereld, zoals onder meer Delphine Galou, Lionel Meunier, Georg Nigl, Dominik Wörner, Sofie Vanden Eynde, Florian Heyerick, Erik Van Nevel, Jan De Vlieger, Peter Heygen en anderen.
 

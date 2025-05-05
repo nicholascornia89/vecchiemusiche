@@ -11,7 +11,7 @@ tags:
 # Lester Van Loock
 
 <div class="grid" markdown>
-![lester_van_loock](../assets/images/lester_van_loock.jpg){align=left width="300" height ="300"}
+![lester_van_loock](../assets/images/lester_van_loock.webp){align=left width="300" height ="300"}
 Lester Van Loock had maar een paar noten nodig aan de piano om te beseffen dat hij zijn leven aan muziek zou wijden. Na zijn studies aan de academie onder leiding van Stefan Van Landeghem werkte Lester intensief met de Hongaarse pianist Levente Kende aan het koninklijk conservatorium van Antwerpen, waar hij eveneens werkte met Nikolaas Kende en Heidi Hendrickx.
  
 

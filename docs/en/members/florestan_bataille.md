@@ -11,7 +11,7 @@ tags:
 # Florestan Bataille
 
 <div class="grid" markdown>
-![florestan_bataille](../assets/images/florestan_bataille.jpg){align=left width="300" height ="300"}
+![florestan_bataille](../assets/images/florestan_bataille.webp){align=left width="300" height ="300"}
 Florestan Bataillie (°1992) studeerde piano aan het Koninklijk Conservatorium te Brussel in de klas van Boyan Vodenitcharov en Hans Ryckelynck. Hij vervolmaakte zich nadien als concertmusicus in de klas van Jan Michiels. Florestan volgde regelmatig zowel als solist, kamermusicus en liedbegeleider cursussen en masterclasses bij gerenommeerde musici. Met zijn broer Ludovic (viool) vormt hij het duo ‘Adelfoi’. In die bezetting spelen ze klassieke meesterwerken, gekoppeld aan eigen muziek en een sterke klemtoon op Belgisch romantisch repertoire. Samen met de zussen Fien en Riet Van den Fonteyne maakt hij sinds 2011 deel uit van het pianotrio ‘Impression’. In 2013 namen ze een eerste cd op met werken van Haydn, Rachmaninov en Brahms. In 2015 won hij met zijn pianotrio de internationale ‘Storioni’ wedstrijd voor ensembles in Nederland. Naast de eerste prijs kaapten ze tevens de publieksprijs en de prijs van de Nederlandse Omroep Max weg. In 2016 werd hij met zijn trio laureaat van de vzw S.W.U.K., hierdoor konden ze hun debuutplaat ‘Gypsy’ opnemen bij het Nederlandse label Aliud. In 2019 speelden ze als
 solisten het Tripelconcerto van Ludwig van Beethoven met het Kempisch Symfonisch Orkest o.l.v. Hans Laureyn. In 2020 speelden ze in Concertgebouw Brugge hun 10-jarig jubileumconcert, live uitgezonden op Radio Klara.
 

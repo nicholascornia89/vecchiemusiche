@@ -12,7 +12,7 @@ tags:
 # Catou Pecher
 
 <div class="grid" markdown>
-![catou_pecher](../assets/images/catou_pecher.jpg){align=left width="300" height ="300"}
+![catou_pecher](../assets/images/catou_pecher.webp){align=left width="300" height ="300"}
 Catou Pecher was born in Antwerp in 1953. She studied medecine at the Vrije Universiteit Brussen (VUB).
 She discovered early music in the early 70’s and played different instruments as recorder, shawm, crumhorns and medieval fiddle.
 During summer courses in the 70’s in Germany (Celle) and Belgium (Marche-les-Dames) she started to play the sackbut and the viola da gamba. She learned the viola da gamba with Adelheid Glatt in the 70’s. She had the opportunity to participate to some recordings :

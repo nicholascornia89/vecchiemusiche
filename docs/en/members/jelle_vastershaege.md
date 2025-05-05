@@ -11,7 +11,7 @@ tags:
 # Jelle Vastershaeghe
 
 <div class="grid" markdown>
-![jelle_vastershaege](../assets/images/jelle_vastershaege.jpg){align=left width="300" height ="300"}
+![jelle_vastershaege](../assets/images/jelle_vastershaege.webp){align=left width="300" height ="300"}
 Jelle Vastershaeghe is een multifunctioneel all-round pianist met grote stilistische verscheidenheid en geprezen improvisatorische mogelijkheden. Zijn veelzijdigheid blijkt uit de variatie in zijn optredens, waarin hij zich moeiteloos aanpast aan verschillende muziekgenres en samenwerkt met diverse artiesten. De geroemde samenwerkingen met violist Laci Olah, mezzo Helene Bracke, basso Charles Dekeyser en sopraan Jolien De Gendt herdefinieerde de conventionele concertervaring. Met Laci bouwde hij een extensief repertoire op in de entertainmentsector en artistieke wereld. Jelle creëerde met Helene het tragikomisch cabaret Santa’s Wife: De Reizende Poolster, het meeslepend muziektheater Once in a Weill en de ’20 Berlijnse cabaretreminescentie Die Dame i.s.m. O’Brass. Met Jolien exploreert hij een uitgebreid vocaal repertoire doorheen opera en belcanto. Ze volgden online masterclasses met Lisette Oropesa en Kathryn Lewek. Met Charles presenteert Jelle een veelgevraagd evergreen programma (Charles Aznavour, Elvis Presley…). Ze treden regelmatig op het orkest La Chapelle Sauvage o.l.v. Karel De Wilde.
 
 

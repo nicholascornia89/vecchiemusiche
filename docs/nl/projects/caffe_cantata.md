@@ -6,7 +6,7 @@ hide:
 
 # Caffè Cantata
 
-![caffe_cantata](../../assets/images/caffe_cantata.jpg){align =left}
+![caffe_cantata](../../assets/images/caffe_cantata.webp){align =left}
 
 In tegenstelling tot het succes dat madrigaal en opera sinds de revival van vorige eeuw genieten, blijft de cantate het zwarte schaap van de oude muziek. De cantate combineert de polyfone en monodische schrijfwijzen met de dramatiek van het toneelspel.
 Juist die mengeling van stijlen heeft ervoor gezorgd dat Europese componisten van de 17de en 18de eeuw in de cantate een voedingsbodem vonden voor uitzonderlijk experiment. En net door die veelvormige natuur is ze moeilijk te begrijpen voor het hedendaagse publiek en de uitvoerders.

@@ -6,7 +6,7 @@ hide:
 
 # Sketches of Arcadia
 
-![Sprezzanti Rime](../../assets/images/sketches_of_arcadia.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sketches_of_arcadia.webp){align =left}
 
 Londen in de 18de eeuw was the place to be voor artiesten en performers op zoek naar rijke werkgevers en mecenassen. Dankzij een bloeiende economie, groeiende industrie, nieuwe inkomsten uit kolonies en een oppermachtige marine groeide Engeland uit tot een welvarende mogendheid binnen Europa en de rest van de wereld. De nieuwe Britse middenklasse profiteerde en kon zich nieuwe vormen van ontspanning permitteren, waarop een bruisende entertainmentsector ontstond met theater, literatuur en muziek.  
 

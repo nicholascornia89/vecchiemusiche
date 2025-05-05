@@ -6,7 +6,7 @@ hide:
 
 # Sketches of Arcadia
 
-![Sprezzanti Rime](../../assets/images/sketches_of_arcadia.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sketches_of_arcadia.webp){align =left}
 
 La Londra del primo Settecento è da considerarsi the place to be per molti artisti in cerca di ricchi impresari e mecenati. L’Inghilterra del tempo cominciava già a ricoprire il ruolo di grande potenza nella politica europea e globale, grazie alla sua flotta e una crescente influenza coloniale ed industriale.
 

@@ -6,7 +6,7 @@ hide:
 
 # Sprezzanti Rime
 
-![Sprezzanti Rime](../../assets/images/sprezzanti_rime.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sprezzanti_rime.webp){align =left}
 
 Het concertprogramma Sprezzanti Rime vertegenwoordigt een kruispunt in het artistieke onderzoek van Le Vecchie Musiche, dat in augustus 2023 haar eerste vijfjarig bestaan vierde. 
 

@@ -6,7 +6,7 @@ hide:
 
 # Le Donne Antique
 
-![donne_antique](../../assets/images/donne_antique.jpg){align =left}
+![donne_antique](../../assets/images/donne_antique.webp){align =left}
 
 ```
 Ecco amore mio, mia colomba, mia bella, 

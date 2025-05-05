@@ -6,7 +6,7 @@ hide:
 
 # Oddities & Rarities 2024
 
-![oddities and rarities](../../assets/images/oddities_and_rarities_2024.jpg){align =left}
+![oddities and rarities](../../assets/images/oddities_and_rarities_2024.webp){align =left}
 
 West-Europa kende in de late negentiende en vroege twintigste eeuw een trend van oriëntalistische en exotische kunst, die een groot cultureel, en in het bijzonder muzikaal, oeuvre heeft gegenereerd. Dergelijke werken baden vandaag echter in bedenkelijke wateren, waarmee imperialisme, kolonialisme en culturele toe-eigening worden geassocieerd. Hoe gaan we daar als muzikanten en als publiek mee om? 
 
@@ -36,7 +36,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
 
 - __Les roses de Saadi - 19 april 20.30u__
 
-    ![roses_de_saadi](../assets/images/roses_de_saadi.jpg){align=right width="150" height="150"}
+    ![roses_de_saadi](../assets/images/roses_de_saadi.webp){align=right width="150" height="150"}
     Het recital “Les roses de Saadi” door sopraan Pauline Lebbe en pianist Florestan Bataillie, geeft een caleïdoscopische blik op het gelijknamige oriëntalistische gedicht, dat door een klein vijftigtal componisten uit Frankrijk en België op muziek werd gezet. De gedichten van Saadi Shirazi zullen gespiegeld worden dankzij de hulp van Ehsan Yadollahi en Farnoosh Khodadadeh.
 
 
@@ -52,7 +52,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
 
 - __Japanse ontmoetingen - 20 april 15.30u__
 
-    ![japanse_ontmoetingen](../assets/images/japanse_ontmoetingen.jpg){align=right width="150" height="150"}
+    ![japanse_ontmoetingen](../assets/images/japanse_ontmoetingen.webp){align=right width="150" height="150"}
     Koto-speelster Aki Sato ontmoet sopraan Franches Dhont en pianist Lukas Huisman in een muzikale ontmoeting tussen Japan en Europese landen. Ze zullen de invloed van traditionele muziek uit het verre Oosten in Europese cultuur onderzoeken, maar tonen ook de omgekeerde beweging via Westers geïnspireerde muziek van Japanse componisten.
 
 
@@ -66,7 +66,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
 
 - __Belgisch oriëntalisme - 20 april 17u__
 
-    ![belgisch_orientalisme](../assets/images/belgisch_orientalisme.jpg){align=right width="150" height="150"}
+    ![belgisch_orientalisme](../assets/images/belgisch_orientalisme.webp){align=right width="150" height="150"}
     Pianist Lester Van Loock brengt samen met Antwerpse sopraan Laurie Janssens een selectie van exotische liederen van Belgische componisten. “A la manière des Tankas” toont hoe verre landen onze cultuur hebben beïnvloed.
 
     
@@ -78,7 +78,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
 
 - __Le désert - 20 april 20u__
 
-    ![le_desert](../assets/images/le_desert.jpg){align=right width="150" height="150"}
+    ![le_desert](../assets/images/le_desert.webp){align=right width="150" height="150"}
     “Le désert” is een ode aan de rijke muzikale cultuur van Noord-Afrika, in dialoog met Franse kunst uit de 19de eeuw. We nemen de woestijn als metafoor voor zowel het exotische en het vreemde als het sensuele en het mystieke van de landen boven de Sahara.
 
 
@@ -107,7 +107,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
     
 - __Russisch oriëntalisme - 21 april 14u__
 
-    ![russische_orientalisme](../assets/images/russische_orientalisme.jpg){align=right width="150" height="150"}
+    ![russische_orientalisme](../assets/images/russische_orientalisme.webp){align=right width="150" height="150"}
     De onmetelijkheid van de voormalige Russische kaiserdom, met zijn ontelbare culturen en klimaten, roept op tot verwondering. Sopraan Lidwien Van Winckel en pianiste Natalyia Alexeeva brengen een muzikaal programma van Russische componisten, waar de ontmoeting tussen Europa en Azië centraal staat.
 
 
@@ -120,7 +120,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
     
 - __Ode to India - 21 april 16u__
 
-    ![ode_to_india](../assets/images/ode_to_india.jpg){align=right width="150" height="150"}
+    ![ode_to_india](../assets/images/ode_to_india.webp){align=right width="150" height="150"}
     “Ode to India” vertelt de verwondering van Britse vrouwen voor het Indiase subcontinent, los van het mannelijke imperialistische instinct. Traditionele Indiase muziek vindt ruim ingang in de geglobaliseerde cultuur van het Britse imperium.
 
 

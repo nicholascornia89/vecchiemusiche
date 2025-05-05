@@ -12,8 +12,8 @@ hide:
 <div class="grid cards" markdown>
 
 - [Progetti](projects.md){ .md-button }
-  ![Projects](../assets/images/Projects.jpg){ width = "300" height = "300"}
+  ![Projects](../assets/images/Projects.webp){ width = "300" height = "300"}
 - [Archivio Digitale](archive.md){.md-button}
-  ![Digital Archive](../assets/images/aura_soave.jpg){width = "300" height = "300"}
+  ![Digital Archive](../assets/images/aura_soave.webp){width = "300" height = "300"}
 
 </div>

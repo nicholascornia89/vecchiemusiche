@@ -1,7 +1,7 @@
 # Title
 
 <div class="grid" markdown>
-![image](path2image.jpg){align="right" width="300" heigth="500"}
+![image](path2image.webp){align="right" width="300" heigth="500"}
 
 - Title: $title
 - Composer: [$composer](internal_link.md)

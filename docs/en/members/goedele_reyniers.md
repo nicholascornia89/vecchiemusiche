@@ -11,7 +11,7 @@ tags:
 # Goedele Reyniers
 
 <div class="grid" markdown>
-![goedele_reyniers](../assets/images/goedele_reyniers.jpg){align=left width="300" height ="300"}
+![goedele_reyniers](../assets/images/goedele_reyniers.webp){align=left width="300" height ="300"}
 Goedele Reyniers studied Art History and Archaeology at the UGent, followed by the study of conservation/restoration of artworks at the KASK in Ghent. She works as a restorer of mural paintings. She started taking singing classes at the academy APK in Ghent only at the age of 29, being pregnant with her eldest son, in order to be able to sing lullabies without a cracked voice. It turned out that classical singing is not very suitable for lullabies.
 
 

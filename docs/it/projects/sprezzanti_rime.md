@@ -6,7 +6,7 @@ hide:
 
 # Sprezzanti Rime
 
-![Sprezzanti Rime](../../assets/images/sprezzanti_rime.jpg){align =left}
+![Sprezzanti Rime](../../assets/images/sprezzanti_rime.webp){align =left}
 
 Il programma concertistico Sprezzanti Rime rappresenta un crocevia nella ricerca artistica delle Vecchie Musiche, che ha appena festeggiato il suo primo lustro di attività nello scorso Agosto 2023.
 

@@ -6,7 +6,7 @@ hide:
 
 # Santa Editta
 
-![santa_editta](../../assets/images/santa_editta.jpg){align =left}
+![santa_editta](../../assets/images/santa_editta.webp){align =left}
 
 Numerous writers and musicians have been inspired by the eccentric Italian composer Alessandro Stradella (1639-1682), since he was murdered in Genoa under obscure circumstances. Only recently, we have more information concerning his life, all too long clouded in legends, thanks to the research of musicologist Carolyn Gianturco. 
 

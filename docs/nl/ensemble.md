@@ -8,7 +8,7 @@ hide:
 
 ## Le Vecchie Musiche: een nieuwe manier om ons cultureel erfgoed te lezen.
 <div class="grid" markdown>
-![Nicholas](../assets/images/support_us.jpg){align=left width="300" height ="300"} Is geschiedenis als een berg: imposant, onveranderlijk en van harde steen, waar de namen van onze illustere voorgangers gebeiteld staan in graniet? Of is geschiedenis een rivier waarop namen op fragiele blaadjes in kommetjes dobberen? Zwanen halen sommige uit het water en geven ze een plek in een tempel op een eiland. Net zoals de zwanen redden wij de namen die we belangrijk achten uit de stroom der vergetelheid en construeren hiermee onze culturele geschiedenis en identiteit.[^1]
+![Nicholas](../assets/images/support_us.webp){align=left width="300" height ="300"} Is geschiedenis als een berg: imposant, onveranderlijk en van harde steen, waar de namen van onze illustere voorgangers gebeiteld staan in graniet? Of is geschiedenis een rivier waarop namen op fragiele blaadjes in kommetjes dobberen? Zwanen halen sommige uit het water en geven ze een plek in een tempel op een eiland. Net zoals de zwanen redden wij de namen die we belangrijk achten uit de stroom der vergetelheid en construeren hiermee onze culturele geschiedenis en identiteit.[^1]
 </div>
 
 <div class="grid cards" markdown>

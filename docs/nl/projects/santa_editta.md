@@ -6,7 +6,7 @@ hide:
 
 # Santa Editta
 
-![santa_editta](../../assets/images/santa_editta.jpg){align =left}
+![santa_editta](../../assets/images/santa_editta.webp){align =left}
 
 De excentrieke figuur van de Italiaanse componist Alessandro Stradella (1639-1682) heeft, sinds hij in obscure omstandigheden vermoord werd in Genua, generaties van schrijvers en musici geïnspireerd. Pas in de afgelopen jaren heeft het onderzoek van de musicologe Carolyn Gianturco eindelijk klaarheid gebracht over zijn levensgeschiedenis, die al te lang overschaduwd werd door heersende legendes over zijn figuur. 
 

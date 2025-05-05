@@ -6,7 +6,7 @@ hide:
 
 # La Predica del Sole
 
-![predica_del_sole](../../assets/images/predica_del_sole.jpg){align =left}
+![predica_del_sole](../../assets/images/predica_del_sole.webp){align =left}
 
 Galilei’s conflict met de rooms-katholieke kerk, waarbij hij in 1633 zijn geloof in het heliocentrisme moest ontkennen en onder huisarrest werd geplaatst, is een populair archetype geworden voor de historische relatie, lees: onverenigbaarheid, tussen wetenschap en geloof.
 

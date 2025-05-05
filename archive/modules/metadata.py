@@ -53,7 +53,7 @@ def vm_old_archive_creation(metadata_path, data_path):
 	    else:
 	    	vm_archive["poets"][query[0][0]]["manifestations"].append(item["manifestation"])
 
-	# get publishers
+	# get publisherse
 	publishers= csv2dict(os.path.join(metadata_path,"old_archive", "publishers.csv"))
     for item in publishers:
     	query = list(filter(lambda x: x[1]["full_name"] == item["name"],enumerate(vm_archive["publishers"])))

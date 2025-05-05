@@ -1,4 +1,7 @@
 site_name: 'Le Vecchie Musiche e la nuova maniera di leggerle'
+repo_url: https://github.com/nicholascornia89/vecchiemusiche
+repo_name: 'GitHub'
+site_author: Nicholas Cornia
 #docs_dir: 'docs'
 #site_dir: '../../generated/en'
 nav:

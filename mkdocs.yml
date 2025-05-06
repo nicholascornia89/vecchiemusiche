@@ -1,6 +1,6 @@
 site_name: 'Le Vecchie Musiche e la nuova maniera di leggerle'
-repo_url: https://github.com/nicholascornia89/vecchiemusiche
-repo_name: 'GitHub'
+#repo_url: https://github.com/nicholascornia89/vecchiemusiche
+#repo_name: 'GitHub'
 site_author: Nicholas Cornia
 #docs_dir: 'docs'
 #site_dir: '../../generated/en'
@@ -15,6 +15,7 @@ nav:
 
 plugins:
   - search
+  - optimize
   #- toggle-sidebar
   - tags
   #- autorefs
@@ -35,9 +36,9 @@ plugins:
         - locale: it
           name: Italiano
           build: true
-  - redirects:
-      redirect_maps:
-        'https://www.vecchiemusiche.be/nl/projecten/missa-romantica-nl/': 'nl/projects/missa_romantica.md'
+  #- redirects:
+      #redirect_maps:
+        #'https://www.vecchiemusiche.be/nl/projecten/missa-romantica-nl/': 'nl/projects/missa_romantica.md'
 
 
 

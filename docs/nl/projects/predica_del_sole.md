@@ -44,14 +44,14 @@ Een project in samenwerking met Prof. Maarten Van Dyck van Universiteit Gent.
 
     Met steun van 
 
-    ![gent](../../assets/images/gent_logo.png){align=left}
-    ![cultuur_gent](../../assets/images/cultuur_gent_logo.png)
-    ![uitpas](../../assets/images/uitpas_logo.png)
+    ![gent](../../assets/images/gent_logo.webp){align=left}
+    ![cultuur_gent](../../assets/images/cultuur_gent_logo.webp)
+    ![uitpas](../../assets/images/uitpas_logo.webp)
 
 - __Universiteit Gent__
 
     Met dank aan Prof. Maarten Van Dyck
 
-    ![universiteit_gent](../../assets/images/universiteit_gent.png){align=left width=150 height=150}
+    ![universiteit_gent](../../assets/images/universiteit_gent.webp){align=left width=150 height=150}
     
 

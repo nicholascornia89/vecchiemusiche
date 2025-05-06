@@ -7,9 +7,9 @@ hide:
 
 # 
 
-![Vecchie Musiche Logo](../assets/images/VM_logo_large.jpeg){width ="600" height="300"}
+![Vecchie Musiche Logo](../assets/images/VM_logo_large.webp){width ="600" height="300"}
 
-<!--<img src="https://github.com/nicholascornia89/vecchiemusiche/blob/gh-pages/assets/images/VM_logo_large.jpeg?raw=true"> -->
+<!--<img src="https://github.com/nicholascornia89/vecchiemusiche/blob/gh-pages/assets/images/VM_logo_large.webp?raw=true"> -->
 
 <div class="grid cards" markdown>
 

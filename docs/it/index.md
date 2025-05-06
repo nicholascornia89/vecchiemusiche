@@ -7,7 +7,7 @@ hide:
 
 # 
 
-![Vecchie Musiche Logo](../assets/images/VM_logo_large.jpeg){width ="600" height="300"}
+![Vecchie Musiche Logo](../assets/images/VM_logo_large.webp){width ="600" height="300"}
 
 <div class="grid cards" markdown>
 

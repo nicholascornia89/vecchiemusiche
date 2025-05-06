@@ -24,7 +24,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
 
 - __Het Oosten en zijn beeld: Popular Music - 19 april 19u__
 
-    ![oosten_en_zijn_beeld](../assets/images/oosten_en_zijn_beeld.png){align=right width="150" height="150"}
+    ![oosten_en_zijn_beeld](../assets/images/oosten_en_zijn_beeld.webp){align=right width="150" height="150"}
     Zangeressen Dominique Van Hof en Ellen Wils brengen met pianist Jelle Vastershaeghe een controversieel en sensueel zangrecital met pittige liederen uit de populaire muziekcultuur waar Oosterse culturen mengen met Europese verbeelding en stereotypen.
     
     **Uitvoerders**
@@ -93,7 +93,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
     
 - __HAMDAM jamsessie - 20 april 21.30u__
 
-    ![hamdam](../assets/images/hamdam.jpeg){align=right width="150" height="150"}
+    ![hamdam](../assets/images/hamdam.webp){align=right width="150" height="150"}
     Hamdam: een uitnodiging om samen klanken, melodieën en composities te delen. Grijp je instrument, stem, beweging of beeld en vertel je verhaal tijdens dit vertelmoment!
 
     Hamdam: “de persoon die dezelfde lucht inademt”, in Iran wordt een goede vriend ‘Hamdam’ genoemd. Vrienden die vrijuit emoties en gedachten delen met elkaar zonder bang te zijn voor een oordeel.
@@ -171,7 +171,7 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
   
 - __De Graaf Kunstenplek__
   
-    ![graaf](../../assets/images/graaf.png)
+    ![graaf](../../assets/images/graaf.webp)
 
     [De Graaf Kunstenplek](https://degraaf.gent/)
 
@@ -182,9 +182,9 @@ Daarnaast bieden we workshops, lezingen en een specialiteitenmarkt aan, om de cu
 
     Met steun van 
 
-    ![gent](../../assets/images/gent_logo.png){align=left}
-    ![cultuur_gent](../../assets/images/cultuur_gent_logo.png)
-    ![uitpas](../../assets/images/uitpas_logo.png)
+    ![gent](../../assets/images/gent_logo.webp){align=left}
+    ![cultuur_gent](../../assets/images/cultuur_gent_logo.webp)
+    ![uitpas](../../assets/images/uitpas_logo.webp)
 
 
   

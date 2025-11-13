@@ -385,6 +385,14 @@
         <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/oddities_and_rarities_2024/"/>
     </url>
     <url>
+        <loc>Noneprojects/oddities_and_rarities_2025/</loc>
+        <lastmod>2025-11-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/oddities_and_rarities_2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/oddities_and_rarities_2025/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/oddities_and_rarities_2025/"/>
+    </url>
+    <url>
         <loc>Noneprojects/predica_del_sole/</loc>
         <lastmod>2025-11-13</lastmod>
         <changefreq>daily</changefreq>
@@ -801,6 +809,14 @@
         <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/oddities_and_rarities_2024/"/>
     </url>
     <url>
+        <loc>Nonenl/projects/oddities_and_rarities_2025/</loc>
+        <lastmod>2025-11-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/oddities_and_rarities_2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/oddities_and_rarities_2025/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/oddities_and_rarities_2025/"/>
+    </url>
+    <url>
         <loc>Nonenl/projects/predica_del_sole/</loc>
         <lastmod>2025-11-13</lastmod>
         <changefreq>daily</changefreq>
@@ -831,12 +847,6 @@
         <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/sprezzanti_rime/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/sprezzanti_rime/"/>
         <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/sprezzanti_rime/"/>
-    </url>
-    <url>
-        <loc>Nonenl/projects/oddities_and_rarities_2025/</loc>
-        <lastmod>2025-11-13</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/oddities_and_rarities_2025/"/>
     </url>
     <url>
         <loc>Noneit/</loc>
@@ -1221,6 +1231,14 @@
         <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/oddities_and_rarities_2024/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/oddities_and_rarities_2024/"/>
         <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/oddities_and_rarities_2024/"/>
+    </url>
+    <url>
+        <loc>Noneit/projects/oddities_and_rarities_2025/</loc>
+        <lastmod>2025-11-13</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="Noneit/projects/oddities_and_rarities_2025/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneprojects/oddities_and_rarities_2025/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="Nonenl/projects/oddities_and_rarities_2025/"/>
     </url>
     <url>
         <loc>Noneit/projects/predica_del_sole/</loc>

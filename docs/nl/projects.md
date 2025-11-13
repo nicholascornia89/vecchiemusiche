@@ -9,6 +9,11 @@ hide:
 
 ---
 
+## [Oddities & Rarities 2025](./projects/oddities_and_rarities_2025.md)
+<div class="grid" markdown>
+  ![Oddities & Rarities 2025](../assets/images/oddities_and_rarities_2025.webp){align=left width="300" height="300"} Oddities & Rarities doorbreekt de grenzen tussen kunstvormen, historische periodes, realiteit en fictie. Door de ogen van de negentiende-eeuwse romantici vertalen we hun fascinatie voor het sublieme en het onverklaarbare in klank, woord, beeld, licht, en zelfs het bovenaardse. [_Lees verder_](./projects/oddities_and_rarities_2025.md) 
+</div> 
+
 ## [Missa Romantica](./projects/missa_romantica.md)
 <div class="grid" markdown>
   ![missa romantica](../assets/images/missa_romantica.webp){align=left width="300" height="300"} Ben jij benieuwd naar de interpretatie van Richard Wagner van Palestrina’s muziek?

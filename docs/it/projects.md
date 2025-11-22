@@ -8,6 +8,11 @@ hide:
 
 ---
 
+## [Oddities & Rarities 2025](./projects/oddities_and_rarities_2025.md)
+<div class="grid" markdown>
+  ![Oddities & Rarities 2025](../assets/images/oddities_and_rarities_2025.webp){align=left width="300" height="300"} Oddities & Rarities supera i confini tra forme d'arte, periodi storici, realtà e finzione. Attraverso gli occhi dei romantici del XIX secolo, il loro fascino per il sublime e l'inspiegabile viene tradotto in suoni, parole, immagini, luci e persino nell'ultraterreno. [_Continua_](./projects/oddities_and_rarities_2025.md) 
+</div> 
+
 ## [Missa Romantica](./projects/missa_romantica.md)
 <div class="grid" markdown>
   ![missa romantica](../assets/images/missa_romantica.webp){align=left width="300" height="300"} Siete curiosi di conoscere l'interpretazione della musica di Palestrina da parte di Richard Wagner?
